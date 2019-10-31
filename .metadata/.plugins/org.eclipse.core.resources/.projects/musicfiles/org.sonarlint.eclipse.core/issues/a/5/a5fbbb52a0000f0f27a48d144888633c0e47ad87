@@ -1,0 +1,36 @@
+
+squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆšçHƒ	RMINORZ
+CODE_SMELL
+squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸û©®H„	RMINORZ
+CODE_SMELL
+„squid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èö˜¬şÿÿÿÿH…	RMINORZ
+CODE_SMELL
+„squid:S00117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø››²ûÿÿÿÿH†	RMINORZ
+CODE_SMELL
+…squid:S00116"RRename this field "song_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜºÊ£üÿÿÿÿH‡	RMINORZ
+CODE_SMELL
+squid:S00116"TRename this field "Song_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓóÊ`Hˆ	RMINORZ
+CODE_SMELL
+„squid:S00116"VRename this field "Artist_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¬§H‰	RMINORZ
+CODE_SMELL
+‚squid:S00116"URename this field "Album_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨œ´HŠ	RMINORZ
+CODE_SMELL
+‰squid:S00116
+"VRename this field "Description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¼Â­ùÿÿÿÿH‹	RMINORZ
+CODE_SMELL
+squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†úä÷ûÿÿÿÿHŒ	RMINORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆšçH	RMINORZ
+CODE_SMELL
+squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ğºÏÿÿÿÿÿH	RMINORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸û©®H	RMINORZ
+CODE_SMELL
+|squid:S00100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÌùàH	RMINORZ
+CODE_SMELL
+squid:S00100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èö˜¬şÿÿÿÿH‘	RMINORZ
+CODE_SMELL
+squid:S00100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‹ˆŸûÿÿÿÿH’	RMINORZ
+CODE_SMELL
+squid:S00100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø››²ûÿÿÿÿH“	RMINORZ
+CODE_SMELL

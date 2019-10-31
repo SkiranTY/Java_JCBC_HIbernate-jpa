@@ -1,0 +1,24 @@
+package com.tyss.songshiber;
+
+public class Songsdata {
+
+	public static void main(String[] args) {
+		
+		Song_gs songs=new Song_gs();
+		songs.setSong_id(1);
+		songs.setSong_name("ekadanthaya");
+		songs.setAlbum_name("Lord Ganesh");
+		songs.setArtist_name("shankar mahadevan");
+		songs.setSong_location("music/god");
+		songs.setDescription("prayer song");
+		
+		Song_gs songs1=new Song_gs();
+		songs1.setSong_id(2);
+		songs1.setSong_name("neeralli sanna");
+		songs1.setAlbum_name("hudugaru");
+		songs1.setArtist_name("sonu nigam");
+		songs1.setSong_location("music/friends");
+		songs1.setDescription("feeling song");
+	}
+
+}

@@ -1,0 +1,17 @@
+
+Xsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÔRMINORZVULNERABILITY
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+squid:S00117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¾¹äHÐRMINORZ
+CODE_SMELL
+Xsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÑRMINORZVULNERABILITY
+Xsquid:S11480"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÒRMINORZVULNERABILITY
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ËÑÕ–H×RMAJORZ
+CODE_SMELL
+ˆsquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(±Ô›øHÖRBLOCKERZVULNERABILITY
+Xsquid:S11487"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHÓRMINORZVULNERABILITY
+e
+squid:S106'"9Replace this use of System.out or System.err by a logger.(šçžåHØRMAJORZ
+CODE_SMELL

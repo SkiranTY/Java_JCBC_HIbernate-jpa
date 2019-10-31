@@ -1,0 +1,448 @@
+
+f
+squid:S106’"9Replace this use of System.out or System.err by a logger.(•ú÷×H¯%RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö¢”¢H°%RMAJORZ
+CODE_SMELL
+k
+squid:S106á"9Replace this use of System.out or System.err by a logger.(ÛÌ¹øÿÿÿÿH±%RMAJORZ
+CODE_SMELL
+[squid:S1199ù"-Extract this nested code block into a method.(Ã‘‡H²%RMINORZ
+CODE_SMELL
+‹squid:S1192Ö"UDefine a constant instead of duplicating this literal "something went wrong" 3 times.(¢—½šùÿÿÿÿH³%RCRITICALZ
+CODE_SMELL
+[squid:S1199¤"-Extract this nested code block into a method.(ÅäÏçH´%RMINORZ
+CODE_SMELL
+Ysquid:S1148¾"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHµ%RMINORZVULNERABILITY
+Ysquid:S1148ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¶%RMINORZVULNERABILITY
+f
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ƒ…çH·%RMAJORZ
+CODE_SMELL
+f
+squid:S106·"9Replace this use of System.out or System.err by a logger.(ò¼ÿ‡H¸%RMAJORZ
+CODE_SMELL
+k
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(¯Ğœ½şÿÿÿÿH¹%RMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰™²£Hº%RMAJORZ
+CODE_SMELL
+osquid:S1075Ê"ARefactor your code to get this URI from a customizable parameter.(é€™†H»%RMINORZ
+CODE_SMELL
+`squid:S2093¯"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿH¼%RCRITICALZ
+CODE_SMELL
+‰squid:S2068Ã"V'password' detected in this expression, review this potentially hard-coded credential.(Æ¼±®H½%RBLOCKERZVULNERABILITY
+[squid:S1199½"-Extract this nested code block into a method.(Í¦‘ØH¾%RMINORZ
+CODE_SMELL
+f
+squid:S106û"9Replace this use of System.out or System.err by a logger.(ƒ…çH¿%RMAJORZ
+CODE_SMELL
+k
+squid:S106³"9Replace this use of System.out or System.err by a logger.(Ê‹¥êûÿÿÿÿHÀ%RMAJORZ
+CODE_SMELL
+k
+squid:S106€"9Replace this use of System.out or System.err by a logger.( ØÂ‰şÿÿÿÿHÁ%RMAJORZ
+CODE_SMELL
+e
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ò¼ÿ‡HÂ%RMAJORZ
+CODE_SMELL
+k
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ÛÌ¹øÿÿÿÿHÃ%RMAJORZ
+CODE_SMELL
+e
+squid:S106~"9Replace this use of System.out or System.err by a logger.(ß©å¢HÄ%RMAJORZ
+CODE_SMELL
+f
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(ßî¶ˆHÅ%RMAJORZ
+CODE_SMELL
+‹squid:S1192-"VDefine a constant instead of duplicating this literal "com.mysql.jdbc.Driver" 8 times.(¹µÖÁüÿÿÿÿHÆ%RCRITICALZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆåöøÿÿÿÿHÇ%RMAJORZ
+CODE_SMELL
+f
+squid:S106„"9Replace this use of System.out or System.err by a logger.(‰™²£HÈ%RMAJORZ
+CODE_SMELL
+Ysquid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÉ%RMINORZVULNERABILITY
+Ysquid:S1148Ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÊ%RMINORZVULNERABILITY
+e
+squid:S106I"9Replace this use of System.out or System.err by a logger.(•ú÷×HË%RMAJORZ
+CODE_SMELL
+`squid:S2093İ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHÌ%RCRITICALZ
+CODE_SMELL
+Ysquid:S1148ó"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÍ%RMINORZVULNERABILITY
+f
+squid:S106—"9Replace this use of System.out or System.err by a logger.(ò¼ÿ‡HÎ%RMAJORZ
+CODE_SMELL
+squid:S1192L"LDefine a constant instead of duplicating this literal "album name=" 5 times.(‹üşüüÿÿÿÿHÏ%RCRITICALZ
+CODE_SMELL
+e
+squid:S106x"9Replace this use of System.out or System.err by a logger.(‹Â¶½HĞ%RMAJORZ
+CODE_SMELL
+Ysquid:S1148­"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÑ%RMINORZVULNERABILITY
+squid:S1192M"ODefine a constant instead of duplicating this literal "song location=" 5 times.(ßî¶ˆHÒ%RCRITICALZ
+CODE_SMELL
+nsquid:S10758"ARefactor your code to get this URI from a customizable parameter.(é€™†HÓ%RMINORZ
+CODE_SMELL
+f
+squid:S106à"9Replace this use of System.out or System.err by a logger.(‹Â¶½HÔ%RMAJORZ
+CODE_SMELL
+`squid:S2093û"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHÕ%RCRITICALZ
+CODE_SMELL
+Ysquid:S1148ª"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÖ%RMINORZVULNERABILITY
+`squid:S1199®"-Extract this nested code block into a method.(µ»åúøÿÿÿÿH×%RMINORZ
+CODE_SMELL
+Ysquid:S1148ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHØ%RMINORZVULNERABILITY
+squid:S1192G"LDefine a constant instead of duplicating this literal "Description" 5 times.(èÏ“ıÿÿÿÿHÙ%RCRITICALZ
+CODE_SMELL
+‰squid:S2068ã"V'password' detected in this expression, review this potentially hard-coded credential.(Æ¼±®HÚ%RBLOCKERZVULNERABILITY
+Xsquid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÛ%RMINORZVULNERABILITY
+k
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(Îæ®ÌÿÿÿÿÿHÜ%RMAJORZ
+CODE_SMELL
+‰squid:S11924"YDefine a constant instead of duplicating this literal "connection is done......" 8 times.(ß©å¢Hİ%RCRITICALZ
+CODE_SMELL
+…squid:S00117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÚ÷ÀıÿÿÿÿHŞ%RMINORZ
+CODE_SMELL
+k
+squid:S106ü"9Replace this use of System.out or System.err by a logger.(ÛÌ¹øÿÿÿÿHß%RMAJORZ
+CODE_SMELL
+f
+squid:S106ù"9Replace this use of System.out or System.err by a logger.(Ã‘‡Hà%RMAJORZ
+CODE_SMELL
+|squid:S1192J"LDefine a constant instead of duplicating this literal "song Title=" 4 times.(ƒ…çHá%RCRITICALZ
+CODE_SMELL
+ˆsquid:S2068{"V'password' detected in this expression, review this potentially hard-coded credential.(Æ¼±®Hâ%RBLOCKERZVULNERABILITY
+k
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(‹üşüüÿÿÿÿHã%RMAJORZ
+CODE_SMELL
+Ysquid:S1148ê"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHä%RMINORZVULNERABILITY
+‰squid:S2068Å"V'password' detected in this expression, review this potentially hard-coded credential.(Æ¼±®Hå%RBLOCKERZVULNERABILITY
+Ysquid:S1148÷"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHæ%RMINORZVULNERABILITY
+`squid:S4925‘"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHç%RMAJORZ
+CODE_SMELL
+e
+squid:S106."9Replace this use of System.out or System.err by a logger.(‹Â¶½Hè%RMAJORZ
+CODE_SMELL
+xsquid:S1192B"HDefine a constant instead of duplicating this literal "song_id" 5 times.(«¬´›Hé%RCRITICALZ
+CODE_SMELL
+Ysquid:S1148£"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHê%RMINORZVULNERABILITY
+f
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(ß©å¢Hë%RMAJORZ
+CODE_SMELL
+k
+squid:S106å"9Replace this use of System.out or System.err by a logger.(¢—½šùÿÿÿÿHì%RMAJORZ
+CODE_SMELL
+e
+squid:S106J"9Replace this use of System.out or System.err by a logger.(ƒ…çHí%RMAJORZ
+CODE_SMELL
+Xsquid:S1148T"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHî%RMINORZVULNERABILITY
+k
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(¢—½šùÿÿÿÿHï%RMAJORZ
+CODE_SMELL
+`squid:S4925Á"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHğ%RMAJORZ
+CODE_SMELL
+f
+squid:S106²"9Replace this use of System.out or System.err by a logger.(•ú÷×Hñ%RMAJORZ
+CODE_SMELL
+_squid:S2093u"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHò%RCRITICALZ
+CODE_SMELL
+k
+squid:S106å"9Replace this use of System.out or System.err by a logger.(İ§¬üÿÿÿÿHó%RMAJORZ
+CODE_SMELL
+f
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(Öò™ŞHô%RMAJORZ
+CODE_SMELL
+f
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(‹Â¶½Hõ%RMAJORZ
+CODE_SMELL
+‰squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(Æ¼±®Hö%RBLOCKERZVULNERABILITY
+f
+squid:S106½"9Replace this use of System.out or System.err by a logger.(Í¦‘ØH÷%RMAJORZ
+CODE_SMELL
+‚squid:S1192K"MDefine a constant instead of duplicating this literal "Artist name=" 5 times.(ÛÌ¹øÿÿÿÿHø%RCRITICALZ
+CODE_SMELL
+Ysquid:S1148æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHù%RMINORZVULNERABILITY
+f
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(‰™²£Hú%RMAJORZ
+CODE_SMELL
+Ysquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHû%RMINORZVULNERABILITY
+Ysquid:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHü%RMINORZVULNERABILITY
+j
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ã­ÙºøÿÿÿÿHı%RMAJORZ
+CODE_SMELL
+‰squid:S2068µ"V'password' detected in this expression, review this potentially hard-coded credential.(Æ¼±®Hş%RBLOCKERZVULNERABILITY
+f
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(…©¯€Hÿ%RMAJORZ
+CODE_SMELL
+{squid:S1192C"KDefine a constant instead of duplicating this literal "Song_title" 5 times.(ÑÃê¯H€&RCRITICALZ
+CODE_SMELL
+f
+squid:S106À"9Replace this use of System.out or System.err by a logger.(‹Â¶½H&RMAJORZ
+CODE_SMELL
+†squid:S1192S"VDefine a constant instead of duplicating this literal "music files not found" 7 times.(‰™²£H‚&RCRITICALZ
+CODE_SMELL
+k
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(«…ÿÿÿÿÿHƒ&RMAJORZ
+CODE_SMELL
+Ysquid:S1148´"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH„&RMINORZVULNERABILITY
+Xsquid:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH…&RMINORZVULNERABILITY
+k
+squid:S106â"9Replace this use of System.out or System.err by a logger.(‹üşüüÿÿÿÿH†&RMAJORZ
+CODE_SMELL
+…squid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÚ÷ÀıÿÿÿÿH‡&RMINORZ
+CODE_SMELL
+k
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(ÑàÖúıÿÿÿÿHˆ&RMAJORZ
+CODE_SMELL
+k
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(³ÂãùÿÿÿÿH‰&RMAJORZ
+CODE_SMELL
+Zsquid:S1199s"-Extract this nested code block into a method.(¶šĞãHŠ&RMINORZ
+CODE_SMELL
+f
+squid:S106’"9Replace this use of System.out or System.err by a logger.(‹Â¶½H‹&RMAJORZ
+CODE_SMELL
+f
+squid:S106„"9Replace this use of System.out or System.err by a logger.(ß©å¢HŒ&RMAJORZ
+CODE_SMELL
+d
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¯‚’yH&RMAJORZ
+CODE_SMELL
+k
+squid:S106®"9Replace this use of System.out or System.err by a logger.(µ»åúøÿÿÿÿH&RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ÃyH&RMAJORZ
+CODE_SMELL
+k
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(‡´õıÿÿÿÿH&RMAJORZ
+CODE_SMELL
+Ysquid:S1148ì"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH‘&RMINORZVULNERABILITY
+Ysquid:S1148’"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH’&RMINORZVULNERABILITY
+f
+squid:S106é"9Replace this use of System.out or System.err by a logger.(‰™²£H“&RMAJORZ
+CODE_SMELL
+f
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(èÖŸºH”&RMAJORZ
+CODE_SMELL
+squid:S1192D"LDefine a constant instead of duplicating this literal "Artist_name" 5 times.(ùØÂÙüÿÿÿÿH•&RCRITICALZ
+CODE_SMELL
+Ysquid:S1148±"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH–&RMINORZVULNERABILITY
+Ysquid:S1148‹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH—&RMINORZVULNERABILITY
+f
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(ß©å¢H˜&RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(¨Ù™2H™&RMAJORZ
+CODE_SMELL
+±squid:S11921"€Define a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/musicplayer?user=root&password=root" 8 times.(Æ¼±®Hš&RCRITICALZ
+CODE_SMELL
+n"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ê¢ÈšÿÿÿÿÿH›&RCRITICALZ
+CODE_SMELL
+…squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÚ÷ÀıÿÿÿÿHœ&RMINORZ
+CODE_SMELL
+ƒsquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 201 to the 15 allowed.(Çµí‘H&RCRITICALZ
+CODE_SMELL
+e
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ß©å¢H&RMAJORZ
+CODE_SMELL
+f
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(ßî¶ˆHŸ&RMAJORZ
+CODE_SMELL
+f
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(ò¼ÿ‡H &RMAJORZ
+CODE_SMELL
+Xsquid:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¡&RMINORZVULNERABILITY
+osquid:S1075é"ARefactor your code to get this URI from a customizable parameter.(é€™†H¢&RMINORZ
+CODE_SMELL
+e
+squid:S106S"9Replace this use of System.out or System.err by a logger.(‰™²£H£&RMAJORZ
+CODE_SMELL
+f
+squid:S106à"9Replace this use of System.out or System.err by a logger.(ƒ…çH¤&RMAJORZ
+CODE_SMELL
+f
+squid:S106Ú"9Replace this use of System.out or System.err by a logger.(‰™²£H¥&RMAJORZ
+CODE_SMELL
+{squid:S1192E"KDefine a constant instead of duplicating this literal "Album_name" 5 times.(—ôË¶H¦&RCRITICALZ
+CODE_SMELL
+f
+squid:S106É"9Replace this use of System.out or System.err by a logger.(ä¡H§&RMAJORZ
+CODE_SMELL
+f
+squid:S106–"9Replace this use of System.out or System.err by a logger.(ßî¶ˆH¨&RMAJORZ
+CODE_SMELL
+ƒsquid:S1192F"NDefine a constant instead of duplicating this literal "Song_location" 5 times.(ºÚ÷ÀıÿÿÿÿH©&RCRITICALZ
+CODE_SMELL
+psquid:S20959"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¯åÙ‡Hª&RBLOCKERZBUG
+k
+squid:S106á"9Replace this use of System.out or System.err by a logger.(¢—½šùÿÿÿÿH«&RMAJORZ
+CODE_SMELL
+osquid:S1075"ARefactor your code to get this URI from a customizable parameter.(é€™†H¬&RMINORZ
+CODE_SMELL
+k
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(øüíşÿÿÿÿH­&RMAJORZ
+CODE_SMELL
+k
+squid:S106š"9Replace this use of System.out or System.err by a logger.(ëÉôêøÿÿÿÿH®&RMAJORZ
+CODE_SMELL
+_squid:S4925w"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH¯&RMAJORZ
+CODE_SMELL
+f
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(ß©å¢H°&RMAJORZ
+CODE_SMELL
+qsquid:S2095‚"HUse try-with-resources or close this "FileReader" in a "finally" clause.(¯åÙ‡H±&RBLOCKERZBUG
+ysquid:S1192I"IDefine a constant instead of duplicating this literal "song id=" 5 times.(•ú÷×H²&RCRITICALZ
+CODE_SMELL
+_squid:S1199("-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿH³&RMINORZ
+CODE_SMELL
+j
+squid:S106L"9Replace this use of System.out or System.err by a logger.(‹üşüüÿÿÿÿH´&RMAJORZ
+CODE_SMELL
+_squid:S2093*"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHµ&RCRITICALZ
+CODE_SMELL
+Ysquid:S1148ï"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¶&RMINORZVULNERABILITY
+osquid:S1075É"ARefactor your code to get this URI from a customizable parameter.(é€™†H·&RMINORZ
+CODE_SMELL
+§squid:S11928"wDefine a constant instead of duplicating this literal "C:\\Users\\Srinivas R Setty\\Desktop\\music.properties" 8 times.(é€™†H¸&RCRITICALZ
+CODE_SMELL
+`squid:S4925±"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH¹&RMAJORZ
+CODE_SMELL
+Ysquid:S1148è"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHº&RMINORZVULNERABILITY
+osquid:S1075»"ARefactor your code to get this URI from a customizable parameter.(é€™†H»&RMINORZ
+CODE_SMELL
+Ysquid:S1148Ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH¼&RMINORZVULNERABILITY
+f
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(ÅäÏçH½&RMAJORZ
+CODE_SMELL
+`squid:S2093¿"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿH¾&RCRITICALZ
+CODE_SMELL
+f
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(ìÃ H¿&RMAJORZ
+CODE_SMELL
+`squid:S1199"-Extract this nested code block into a method.(ÆåöøÿÿÿÿHÀ&RMINORZ
+CODE_SMELL
+f
+squid:S106ş"9Replace this use of System.out or System.err by a logger.(ßî¶ˆHÁ&RMAJORZ
+CODE_SMELL
+i"squid:SwitchLastCaseIsDefaultCheck¬""Add a default case to this switch.(çÛ¼dHÂ&RCRITICALZ
+CODE_SMELL
+f
+squid:S106½"9Replace this use of System.out or System.err by a logger.(‰™²£HÃ&RMAJORZ
+CODE_SMELL
+k
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(°”Ç¥üÿÿÿÿHÄ&RMAJORZ
+CODE_SMELL
+k
+squid:S106ı"9Replace this use of System.out or System.err by a logger.(‹üşüüÿÿÿÿHÅ&RMAJORZ
+CODE_SMELL
+Ysquid:S1148á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÆ&RMINORZVULNERABILITY
+}squid:S1192N"MDefine a constant instead of duplicating this literal "Description=" 5 times.(ò¼ÿ‡HÇ&RCRITICALZ
+CODE_SMELL
+Ysquid:S1148Û"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÈ&RMINORZVULNERABILITY
+k
+squid:S106×"9Replace this use of System.out or System.err by a logger.(ğàÜìÿÿÿÿÿHÉ&RMAJORZ
+CODE_SMELL
+k
+squid:S106´"9Replace this use of System.out or System.err by a logger.(ÛÌ¹øÿÿÿÿHÊ&RMAJORZ
+CODE_SMELL
+k
+squid:S106•"9Replace this use of System.out or System.err by a logger.(‹üşüüÿÿÿÿHË&RMAJORZ
+CODE_SMELL
+ˆsquid:S20681"V'password' detected in this expression, review this potentially hard-coded credential.(Æ¼±®HÌ&RBLOCKERZVULNERABILITY
+e
+squid:S106s"9Replace this use of System.out or System.err by a logger.(¶šĞãHÍ&RMAJORZ
+CODE_SMELL
+j
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ÛÌ¹øÿÿÿÿHÎ&RMAJORZ
+CODE_SMELL
+…squid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÚ÷ÀıÿÿÿÿHÏ&RMINORZ
+CODE_SMELL
+f
+squid:S106†"9Replace this use of System.out or System.err by a logger.(Å±–‚HĞ&RMAJORZ
+CODE_SMELL
+f
+squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(ò¼ÿ‡HÑ&RMAJORZ
+CODE_SMELL
+f
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(²º§…HÒ&RMAJORZ
+CODE_SMELL
+f
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(•ú÷×HÓ&RMAJORZ
+CODE_SMELL
+Zsquid:S1199"-Extract this nested code block into a method.(ö¢”¢HÔ&RMINORZ
+CODE_SMELL
+`squid:S4925ß"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHÕ&RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï¾¾šHÖ&RMAJORZ
+CODE_SMELL
+k
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(ëæ²÷ıÿÿÿÿH×&RMAJORZ
+CODE_SMELL
+_squid:S4925-"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHØ&RMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(«êÁ¾HÙ&RMAJORZ
+CODE_SMELL
+osquid:S1075›"ARefactor your code to get this URI from a customizable parameter.(é€™†HÚ&RMINORZ
+CODE_SMELL
+`squid:S1199Ü"-Extract this nested code block into a method.(øüíşÿÿÿÿHÛ&RMINORZ
+CODE_SMELL
+j
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ö™µ–úÿÿÿÿHÜ&RMAJORZ
+CODE_SMELL
+f
+squid:S106ş"9Replace this use of System.out or System.err by a logger.(‹Â¶½Hİ&RMAJORZ
+CODE_SMELL
+`squid:S4925ı"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHŞ&RMAJORZ
+CODE_SMELL
+}squid:S2095Î"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¼ä÷şÿÿÿÿHß&RBLOCKERZBUG
+`squid:S2093½"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHà&RCRITICALZ
+CODE_SMELL
+Ysquid:S1148Ë"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHá&RMINORZVULNERABILITY
+e
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ßî¶ˆHâ&RMAJORZ
+CODE_SMELL
+f
+squid:S106£"9Replace this use of System.out or System.err by a logger.(àÅõúHã&RMAJORZ
+CODE_SMELL
+†squid:S1192."VDefine a constant instead of duplicating this literal "Driver Loaded........" 8 times.(‹Â¶½Hä&RCRITICALZ
+CODE_SMELL
+j
+squid:S106'"9Replace this use of System.out or System.err by a logger.(èÆÂ¦øÿÿÿÿHå&RMAJORZ
+CODE_SMELL
+‰squid:S2068•"V'password' detected in this expression, review this potentially hard-coded credential.(Æ¼±®Hæ&RBLOCKERZVULNERABILITY
+k
+squid:S106º"9Replace this use of System.out or System.err by a logger.(­ğÔ­øÿÿÿÿHç&RMAJORZ
+CODE_SMELL
+f
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(³š²öHè&RMAJORZ
+CODE_SMELL
+`squid:S1199º"-Extract this nested code block into a method.(­ğÔ­øÿÿÿÿHé&RMINORZ
+CODE_SMELL
+`squid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHê&RCRITICALZ
+CODE_SMELL
+k
+squid:S106©"9Replace this use of System.out or System.err by a logger.(“şğíúÿÿÿÿHë&RMAJORZ
+CODE_SMELL
+osquid:S1075‡"ARefactor your code to get this URI from a customizable parameter.(é€™†Hì&RMINORZ
+CODE_SMELL
+„squid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÚ÷ÀıÿÿÿÿHí&RMINORZ
+CODE_SMELL
+Ysquid:S1148Ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHî&RMINORZVULNERABILITY
+Ysquid:S1148…"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHï&RMINORZVULNERABILITY
+`squid:S4925¿"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHğ&RMAJORZ
+CODE_SMELL
+f
+squid:S106È"9Replace this use of System.out or System.err by a logger.(ß©å¢Hñ&RMAJORZ
+CODE_SMELL
+f
+squid:S106²"9Replace this use of System.out or System.err by a logger.(‹Â¶½Hò&RMAJORZ
+CODE_SMELL
+f
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(ß©å¢Hó&RMAJORZ
+CODE_SMELL
+ksquid:UselessImportCheck",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿHô&RMINORZ
+CODE_SMELL

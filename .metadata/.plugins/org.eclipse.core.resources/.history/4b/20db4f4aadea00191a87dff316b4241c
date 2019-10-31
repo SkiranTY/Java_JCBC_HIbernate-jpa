@@ -1,0 +1,17 @@
+package com.ty.excer;
+
+public class Demo {
+	static int k=19;
+	public static void main(String[] args) {
+		int i;
+		for(i=0;i<5;i++) {
+			System.out.println(i);
+			continue;
+		}
+		if(i<5) {
+			System.out.println(i);
+			
+		}
+		System.out.println(Demo.k);
+	}
+}

@@ -1,0 +1,14 @@
+
+squid:S00115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ΨÿΌ±ώÿÿÿÿH½	RCRITICALZ
+CODE_SMELL
+…squid:ModifiersOrderCheck
+"EReorder the modifiers to comply with the Java Language Specification.(ΨÿΌ±ώÿÿÿÿHΎ	RMINORZ
+CODE_SMELL
+…squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(χκϋÿÿÿÿHΏ	RMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ΖΣυÿHΐ	RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Α…ΒΉHΑ	RMAJORZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+package com.tyss.myarraylist;
+
+import java.util.ArrayList;
+
+public class MyArray {
+
+	ArrayList<E> list = new ArrayList<E>();
+	
+}

@@ -1,0 +1,131 @@
+package com.ty.excer;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Iterator;
+import java.util.List;
+import java.util.ListIterator;
+
+public class MyArrayLIst<Student> implements List<Student> {
+
+	
+	MyArrayLIst<Student> my=new MyArrayLIst<Student>();
+	@Override
+	public boolean add(Student s) {
+		my.add(s);
+		return false;
+	}
+	@Override
+	public void add(int arg0, Student arg1) {
+		my.add(1,s);
+	}
+	@Override
+	public boolean addAll(Collection<? extends Student> arg0) {
+		my.addAll(my);
+		return false;
+	}
+	@Override
+	public boolean addAll(int arg0, Collection<? extends Student> arg1) {
+		my.addAll(1, my);
+		return false;
+	}
+	@Override
+	public void clear() {
+		my.clear();
+	}
+	@Override
+	public boolean contains(Object arg0) {
+		my.contains(s);
+		return false;
+	}
+	@Override
+	public boolean containsAll(Collection<?> arg0) {
+		my.containsAll(my);
+		return false;
+	}
+	@Override
+	public Student get(int arg0) {
+		Student s1= my.get(1);
+		return s1;
+	}
+	@Override
+	public int indexOf(Object arg0) {
+		my.indexOf(s);
+		return 0;
+	}
+	@Override
+	public boolean isEmpty() {
+		my.isEmpty();
+		return false;
+	}
+	@Override
+	public Iterator<Student> iterator() {
+		Iterator<Student> arr=my.iterator();
+//		for(String it: Iterator<Student> arr)
+//			System.out.println(it);
+		return null;
+	}
+	@Override
+	public int lastIndexOf(Object arg0) {
+		my.lastIndexOf(s);
+		return 0;
+	}
+	@Override
+	public ListIterator<Student> listIterator() {
+		my.listIterator();
+		return null;
+	}
+	@Override
+	public ListIterator<Student> listIterator(int arg0) {
+		my.listIterator(1);
+		return null;
+	}
+	@Override
+	public boolean remove(Object arg0) {
+		my.remove(s);
+		return false;
+	}
+	@Override
+	public Student remove(int arg0) {
+		my.remove(1);
+		return null;
+	}
+	@Override
+	public boolean removeAll(Collection<?> arg0) {
+		my.removeAll(my);
+		return false;
+	}
+	@Override
+	public boolean retainAll(Collection<?> arg0) {
+		my.retainAll(my);
+		return false;
+	}
+	@Override
+	public Student set(int arg0, Student arg1) {
+		my.set(1, s);
+		return null;
+	}
+	@Override
+	public int size() {
+		int size=my.size();
+		return 0;
+	}
+	@Override
+	public List<Student> subList(int arg0, int arg1) {
+		my.subList(1, 3);
+		return null;
+	}
+	@Override
+	public Object[] toArray() {
+		my.toArray();
+		return null;
+	}
+	@Override
+	public <T> T[] toArray(T[] arg0) {
+		my.toArray();
+		return null;
+	}
+
+	
+	
+}

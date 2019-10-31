@@ -1,0 +1,17 @@
+package com.tyss.flipkart;
+
+public class Productintimpl implements Productint {
+
+	public void showallitems() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void buyitem() {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+
+}

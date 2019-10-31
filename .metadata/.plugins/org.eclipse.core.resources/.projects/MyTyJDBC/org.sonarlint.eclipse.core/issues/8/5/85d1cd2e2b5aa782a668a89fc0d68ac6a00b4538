@@ -1,0 +1,26 @@
+
+{squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ê˜HÙRMINORZ
+CODE_SMELL
+Xsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÚRMINORZVULNERABILITY
+Xsquid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÛRMINORZVULNERABILITY
+Xsquid:S1148;"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÜRMINORZVULNERABILITY
+Xsquid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHİRMINORZVULNERABILITY
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(åğùÜHŞRMAJORZ
+CODE_SMELL
+squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(èÄøıÿÿÿÿHßRBLOCKERZVULNERABILITY
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙÃÇHàRMAJORZ
+CODE_SMELL
+e
+squid:S106("9Replace this use of System.out or System.err by a logger.(­–¡ºHáRMAJORZ
+CODE_SMELL
+e
+squid:S106)"9Replace this use of System.out or System.err by a logger.(®İÂÅHâRMAJORZ
+CODE_SMELL
+e
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ã²Æ„HãRMAJORZ
+CODE_SMELL
+j
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ì™áıûÿÿÿÿHäRMAJORZ
+CODE_SMELL

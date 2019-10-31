@@ -1,0 +1,36 @@
+
+Wsquid:S1172"*Remove this unused method parameter "str".(°¦’©HÒRMAJORZ
+CODE_SMELL
+Tsquid:S1481"'Remove this unused "sc" local variable.(ğ¿ÛÑHÓRMINORZ
+CODE_SMELL
+Zsquid:S1172	"(Remove this unused method parameter "i".(Èëê¨úÿÿÿÿHÔRMAJORZ
+CODE_SMELL
+Ysquid:S1481"'Remove this unused "pc" local variable.(ËÀˆ÷ûÿÿÿÿHÕRMINORZ
+CODE_SMELL
+hsquid:S1854"6Remove this useless assignment to local variable "pc".(ËÀˆ÷ûÿÿÿÿHÖRMAJORZ
+CODE_SMELL
+Xsquid:S1172"&Remove these unused method parameters.(ö£ø¤ûÿÿÿÿH×RMAJORZ
+CODE_SMELL
+dsquid:S1854"7Remove this useless assignment to local variable "isc".(õ¬ëëHØRMAJORZ
+CODE_SMELL
+j
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(¾á™ãşÿÿÿÿHÙRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ—ŞìÿÿÿÿÿHÚRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ƒôûÿÿÿÿHÛRMAJORZ
+CODE_SMELL
+csquid:S1854"6Remove this useless assignment to local variable "sc".(ğ¿ÛÑHÜRMAJORZ
+CODE_SMELL
+csquid:S1854"6Remove this useless assignment to local variable "nc".(•§¯ÌHİRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(©ÓäÿÿÿÿÿHŞRMAJORZ
+CODE_SMELL
+Tsquid:S1481"'Remove this unused "nc" local variable.(•§¯ÌHßRMINORZ
+CODE_SMELL
+Usquid:S1481"(Remove this unused "isc" local variable.(õ¬ëëHàRMINORZ
+CODE_SMELL

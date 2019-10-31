@@ -1,0 +1,20 @@
+
+Xsquid:S00108Õ")Either remove or fill this block of code.(≈‘ÊåH®#RMAJORZ
+CODE_SMELL
+Xsquid:S00108±")Either remove or fill this block of code.(≈‘ÊåHß#RMAJORZ
+CODE_SMELL
+Xsquid:S00108π")Either remove or fill this block of code.(≈‘ÊåH™#RMAJORZ
+CODE_SMELL
+Ssquid:S1168I"&Return an empty array instead of null.(•πÔçH´#RMAJORZ
+CODE_SMELL
+nsquid:S1126."AReplace this if-then-else statement by a single return statement.(Å°–°H¶#RMINORZ
+CODE_SMELL
+Xsquid:S00108√")Either remove or fill this block of code.(≈‘ÊåH£#RMAJORZ
+CODE_SMELL
+åsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÌÖ“âH•#RMAJORZ
+CODE_SMELL
+Xsquid:S00108Ó")Either remove or fill this block of code.(≈‘ÊåH¨#RMAJORZ
+CODE_SMELL
+zsquid:S2272Å"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(§øﬂ˝ˇˇˇˇH©#RMINORZBUG
+Ysquid:S1168ˆ"+Return an empty collection instead of null.(•πÔçH§#RMAJORZ
+CODE_SMELL

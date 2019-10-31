@@ -1,0 +1,44 @@
+package com.ty.my2jdbc;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.util.Scanner;
+
+import com.mysql.jdbc.PreparedStatement;
+
+public class Insertion {
+
+	public static void main(String[] args) {
+	
+
+	Scanner scn=new Scanner(System.in);
+	Connection con=null;
+	java.sql.PreparedStatement pstmt=null;
+	
+	try {
+		//driver
+		Class.forName("com.mysql.jdbc.Driver");
+		System.out.println("Driver loaded.....");
+		
+		//connection
+		String dburl="jdbc:mysql://localhost:3306/mydata";
+		System.out.println("enter user");
+		String user=scn.nextLine();
+		System.out.println("enter password");
+		String pasword=scn.nextLine();
+		
+		con=DriverManager.getConnection(dburl);
+		System.out.println("connection est........");
+		
+		//issue sql query
+		String sql="insert into emloyees(?,?)";
+		pstmt=con.prepareStatement(sql);
+		System.out.println("enter id");
+		pstmt.setInt(1, Integer.parseInt(scn.nextLine()));
+		System.out.println("enter name");
+		pstmt.setString(2, scn.nextLine());
+	}catch(Exception e) {
+		
+	}
+	}
+}

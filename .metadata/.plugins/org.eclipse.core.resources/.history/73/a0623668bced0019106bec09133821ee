@@ -1,0 +1,14 @@
+import com.mysql.jdbc.Driver;
+
+public class My2jdbc {
+
+	public static void main(String[] args) {
+		
+		try {
+			Driver d=new Driver();
+			
+		}catch(Exception e){
+			
+		}
+	}
+}

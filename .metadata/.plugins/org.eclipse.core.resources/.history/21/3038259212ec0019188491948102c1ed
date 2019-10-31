@@ -1,0 +1,10 @@
+package com.tyss.tyhibernateapp.dto;
+
+import javax.persistence.Column;
+
+public class EmployeeAddressPk {
+
+	private int id;
+	@Column
+	private String addrtype;
+}

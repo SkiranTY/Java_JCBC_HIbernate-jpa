@@ -1,0 +1,33 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò£ö	8¡âóÔ-HòRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÖµüÿÿÿÿ8¡âóÔ-HğRMAJORZ
+CODE_SMELL
+o"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ìúÇV8Ú‘îóÔ-HüRCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(åöÆù8¡âóÔ-HôRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿæéŸ8¡âóÔ-HóRMAJORZ
+CODE_SMELL
+fsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Ú‘îóÔ-HúRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(à¨‹ÿÿÿÿÿ8¡âóÔ-HñRMAJORZ
+CODE_SMELL
+qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8â½”ôÔ-H“RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºÃ´’8¡âóÔ-HõRMAJORZ
+CODE_SMELL
+~squid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ìúÇV8Ú‘îóÔ-HûRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Ï´æùÿÿÿÿ8Ú‘îóÔ-HşRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö¶Úõúÿÿÿÿ8Ú‘îóÔ-HıRMAJORZ
+CODE_SMELL

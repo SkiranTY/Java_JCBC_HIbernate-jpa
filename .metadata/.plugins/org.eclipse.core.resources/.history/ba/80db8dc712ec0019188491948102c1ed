@@ -1,0 +1,24 @@
+package com.tyss.tyhibernateapp.dto;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import lombok.Data;
+
+@Data
+@Entity
+@Table
+public class EmployeeAddressInfo {
+	
+	@Column
+	private String address1;
+	@Column
+	private String address2;
+	@Column
+	private String city;
+	@Column
+	private String  state;
+	@Column
+	private int pincode;
+}

@@ -1,0 +1,40 @@
+
+q
+squid:S106,"9Replace this use of System.out or System.err by a logger.( ¤¼ÿüÿÿÿÿ8ä”«ÀÜ-H¹RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶ĞÏôÿÿÿÿÿ8ï¶ÀÜ-H¬RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ’†8ø›ú¿Ü-HœRMAJORZ
+CODE_SMELL
+qsquid:S1854"8Remove this useless assignment to local variable "user".(­ê¡Şúÿÿÿÿ8ï¶ÀÜ-H¨RMAJORZ
+CODE_SMELL
+`squid:S1481",Remove this unused "pasword" local variable.(‹ÔÖ¸8ï¶ÀÜ-H¯RMINORZ
+CODE_SMELL
+~squid:S2095#"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(†êÕÆ8ï¶ÀÜ-H¥RBLOCKERZBUG
+ƒsquid:UselessImportCheck"=Remove this unused import 'com.mysql.jdbc.PreparedStatement'.(ÔÁ‰Åıÿÿÿÿ8ï¶ÀÜ-H§RMINORZ
+CODE_SMELL
+q
+squid:S106."9Replace this use of System.out or System.err by a logger.( îşŞûÿÿÿÿ8ä”«ÀÜ-HºRMAJORZ
+CODE_SMELL
+osquid:S1854";Remove this useless assignment to local variable "pasword".(‹ÔÖ¸8ï¶ÀÜ-H©RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ËäÛºúÿÿÿÿ8ï¶ÀÜ-H«RMAJORZ
+CODE_SMELL
+l
+squid:S106$"9Replace this use of System.out or System.err by a logger.(‹°¯­8ï¶ÀÜ-H­RMAJORZ
+CODE_SMELL
+q
+squid:S106&"9Replace this use of System.out or System.err by a logger.(—›½çıÿÿÿÿ8¤¥ÀÜ-H´RMAJORZ
+CODE_SMELL
+|squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Ÿ¶·ùÿÿÿÿ8ï¶ÀÜ-H¦RBLOCKERZBUG
+bsquid:S1481")Remove this unused "user" local variable.(­ê¡Şúÿÿÿÿ8ï¶ÀÜ-H®RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(è‹íùÿÿÿÿ8ï¶ÀÜ-HªRMAJORZ
+CODE_SMELL
+fsquid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8ø›ú¿Ü-H›RMAJORZ
+CODE_SMELL
+_squid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Æò«ÀÜ-H¿RMINORZVULNERABILITY

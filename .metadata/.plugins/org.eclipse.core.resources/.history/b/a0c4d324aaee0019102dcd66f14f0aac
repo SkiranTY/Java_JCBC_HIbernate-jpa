@@ -1,0 +1,14 @@
+package com.ty.excer;
+
+import java.util.MissingFormatArgumentException;
+
+public class Excep extends Throwable {
+
+	public static void main(String[] args)  throws MissingFormatArgumentException {
+		int  a=2,b=3;
+		Math.pow(a,b);
+		if(a==0&&b==0) {
+			throw new MissingFormatArgumentException("missing");
+		}
+	}
+}

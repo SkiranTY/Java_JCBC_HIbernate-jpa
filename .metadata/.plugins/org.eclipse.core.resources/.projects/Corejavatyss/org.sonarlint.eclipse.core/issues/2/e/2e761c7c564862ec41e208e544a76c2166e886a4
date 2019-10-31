@@ -1,0 +1,12 @@
+
+j
+squid:S106
+"9Replace this use of System.out or System.err by a logger.( íûÿÿÿÿÿH¦RMAJORZ
+CODE_SMELL
+osquid:S2133"=Remove this object instantiation and use "Dog.class" instead.(³¸ìÁıÿÿÿÿH§RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¯µŞÿÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+osquid:S2133"=Remove this object instantiation and use "Dog.class" instead.(½É´²ıÿÿÿÿH©RMAJORZ
+CODE_SMELL

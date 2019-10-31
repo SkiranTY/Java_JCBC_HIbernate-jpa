@@ -1,0 +1,64 @@
+
+nsquid:S1854)":Remove this useless assignment to local variable "newArr".(ğÛ¢¼8¿—İüÜ-Hı$RMAJORZ
+CODE_SMELL
+`squid:S1168¢"+Return an empty collection instead of null.(¥¹ï8¡—ÓüÜ-Hà$RMAJORZ
+CODE_SMELL
+ksquid:S1135­"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HÑ$RINFOZ
+CODE_SMELL
+ksquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HÜ$RINFOZ
+CODE_SMELL
+jsquid:S1135M"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HÙ$RINFOZ
+CODE_SMELL
+jsquid:S1135k"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-H×$RINFOZ
+CODE_SMELL
+jsquid:S1135Y"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HÒ$RINFOZ
+CODE_SMELL
+Usquid:S1170"!Make this final field static too.(•ôÛ8ÚéƒúÜ-H„#RMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ß¯óøÜ-Hä"RMINORZ
+CODE_SMELL
+jsquid:S1135G"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HŞ$RINFOZ
+CODE_SMELL
+qsquid:S22594"DA "NullPointerException" could be thrown; "newArr" is nullable here.(ğÛ¢¼8¡—ÓüÜ-HÏ$RMAJORZBUG
+qsquid:S2259)"DA "NullPointerException" could be thrown; "newArr" is nullable here.(ğÛ¢¼8¡—ÓüÜ-HÎ$RMAJORZBUG
+gsquid:S1068"3Remove this unused "initialCapacity" private field.(•ôÛ8ÚéƒúÜ-H†#RMAJORZ
+CODE_SMELL
+ksquid:S1135¡"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-Hİ$RINFOZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8‚ ­üÜ-H$RMAJORZ
+CODE_SMELL
+jsquid:S1135e"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HÛ$RINFOZ
+CODE_SMELL
+osquid:S3516/"9Refactor this method to not always return the same value.(ÿò±é8¡—ÓüÜ-HÌ$RBLOCKERZ
+CODE_SMELL
+ksquid:S1135§"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HĞ$RINFOZ
+CODE_SMELL
+jsquid:S1135A"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-Hå$RINFOZ
+CODE_SMELL
+ksquid:S1135‰"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HÓ$RINFOZ
+CODE_SMELL
+jsquid:S1135S"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HÖ$RINFOZ
+CODE_SMELL
+jsquid:S1135q"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HØ$RINFOZ
+CODE_SMELL
+jsquid:S1135w"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-Hß$RINFOZ
+CODE_SMELL
+jsquid:S1135_"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HÚ$RINFOZ
+CODE_SMELL
+ksquid:S1135•"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-Hã$RINFOZ
+CODE_SMELL
+ksquid:S1135›"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HÔ$RINFOZ
+CODE_SMELL
+ksquid:S1135ƒ"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-HÕ$RINFOZ
+CODE_SMELL
+osquid:S3516$"9Refactor this method to not always return the same value.(Ë¸ 8¡—ÓüÜ-HÍ$RBLOCKERZ
+CODE_SMELL
+[squid:S1168¨"&Return an empty array instead of null.(¥¹ï8¡—ÓüÜ-Hâ$RMAJORZ
+CODE_SMELL
+jsquid:S1135}"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¡—ÓüÜ-Há$RINFOZ
+CODE_SMELL
+[squid:S1168®"&Return an empty array instead of null.(¥¹ï8¡—ÓüÜ-Hä$RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(ôİÄØ8µÚ½‚İ-H­%RMAJORZ
+CODE_SMELL

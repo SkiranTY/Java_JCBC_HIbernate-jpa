@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.ty.Excer&apos; to &apos;com.ty.excer&apos;&#x0D;&#x0A;- Original project: &apos;Corejavatyss&apos;&#x0D;&#x0A;- Original element: &apos;Corejavatyss/src/com.ty.Excer&apos;&#x0D;&#x0A;- Renamed element: &apos;Corejavatyss/src/com.ty.excer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.ty.Excer&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.ty.Excer" name="com.ty.excer" qualified="false" references="true" stamp="1570624499458" textual="false" version="1.0"/>
+</session>

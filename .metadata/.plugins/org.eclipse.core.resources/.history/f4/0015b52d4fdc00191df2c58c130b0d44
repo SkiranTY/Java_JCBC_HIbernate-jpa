@@ -1,0 +1,190 @@
+package com.tyss.hotelbill;
+
+import java.sql.ResultSet;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.EntityTransaction;
+import javax.persistence.Persistence;
+import javax.persistence.Query;
+
+import com.tyss.hotelbill.dto.Hotel_Bill;
+
+public class Hotel_Billintimpl implements Hotel_Billint {
+
+	Scanner scn = new Scanner(System.in);
+	EntityManagerFactory emf = null;
+	EntityManager em = null;
+	EntityTransaction tx = null;
+
+	public void showallfooditems() {
+
+		Hotel_Bill hbs = new Hotel_Bill();
+		hbs.setItem_Code(101);
+		hbs.setFood_Name("dosa");
+		hbs.setPrice(120);
+		Hotel_Bill hbs1 = new Hotel_Bill();
+		hbs1.setItem_Code(102);
+		hbs1.setFood_Name("idli");
+		hbs1.setPrice(100);
+
+		System.out.println(hbs);
+		System.out.println(hbs1);
+	}
+
+	public void insertfooditems() {
+
+		Hotel_Bill hb1 = new Hotel_Bill();
+		System.out.println("enter food item code");
+		hb1.setItem_Code(scn.nextInt());
+		System.out.println("enter food item name");
+		scn.nextLine();
+		hb1.setFood_Name(scn.nextLine());
+		System.out.println("enter food price");
+		hb1.setPrice(scn.nextDouble());
+
+		try {
+			emf = Persistence.createEntityManagerFactory("TestPersistence");
+			em = emf.createEntityManager();
+			tx = em.getTransaction();
+			tx.begin();
+			em.persist(hb1);
+			System.out.println("inserted");
+			tx.commit();
+		} catch (Exception e) {
+			tx.rollback();
+			e.printStackTrace();
+		}
+
+	}
+
+	public void updatefooditems() {
+
+		try {
+			emf = Persistence.createEntityManagerFactory("TestPersistence");
+			em = emf.createEntityManager();
+			tx = em.getTransaction();
+			tx.begin();
+			Hotel_Bill hotelBill = em.find(Hotel_Bill.class, 102);
+			hotelBill.setFood_Name("idli");
+			System.out.println("updated");
+			tx.commit();
+		} catch (Exception e) {
+			tx.rollback();
+			e.printStackTrace();
+		}
+
+	}
+
+	public void deletefooditems() {
+		try {
+			emf = Persistence.createEntityManagerFactory("TestPersistence");
+			em = emf.createEntityManager();
+			tx = em.getTransaction();
+			tx.begin();
+			Hotel_Bill hotelBill = em.find(Hotel_Bill.class, 102);
+			em.remove(hotelBill);
+			System.out.println("removed...");
+			tx.commit();
+		} catch (Exception e) {
+			tx.rollback();
+			e.printStackTrace();
+		}
+
+	}
+
+	public void takeorderfromcustomers() {
+
+		int hbim;
+		System.out.println("enter food code");
+		hbim = scn.nextInt();
+		if (hbim != 0) {
+			scn.nextInt();
+			System.out.println(scn.nextInt());
+		} else {
+			System.out.println("your bill is generated");
+		}
+	}
+
+	public void additems() {
+
+		Hotel_Bill hb = new Hotel_Bill();
+		System.out.println("enter food item code");
+		hb.setItem_Code(scn.nextInt());
+		System.out.println("enter food item name");
+		hb.setFood_Name(scn.nextLine());
+		System.out.println("enter food price");
+		hb.setPrice(scn.nextDouble());
+
+		try {
+			emf = Persistence.createEntityManagerFactory("TestPersistence");
+			em = emf.createEntityManager();
+			tx = em.getTransaction();
+			tx.begin();
+			em.persist(hb);
+			System.out.println("inserted");
+			tx.commit();
+		} catch (Exception e) {
+			tx.rollback();
+			e.printStackTrace();
+		}
+	}
+
+	public void removefooditems() {
+
+		try {
+			emf = Persistence.createEntityManagerFactory("TestPersistence");
+			em = emf.createEntityManager();
+			tx = em.getTransaction();
+			tx.begin();
+			Hotel_Bill hotelBill1 = em.find(Hotel_Bill.class, 103);
+			em.remove(hotelBill1);
+			System.out.println("removed...");
+			tx.commit();
+		} catch (Exception e) {
+			tx.rollback();
+			e.printStackTrace();
+		}
+
+	}
+
+	public void modifyfooditems() {
+
+		try {
+			emf = Persistence.createEntityManagerFactory("TestPersistence");
+			em = emf.createEntityManager();
+			tx = em.getTransaction();
+			tx.begin();
+			Hotel_Bill hotelBill = em.find(Hotel_Bill.class, 103);
+			hotelBill.setFood_Name("idli");
+			hotelBill.setPrice(70);
+			System.out.println("updated");
+			tx.commit();
+		} catch (Exception e) {
+			tx.rollback();
+			e.printStackTrace();
+		}
+	}
+
+	public void totalbillday() {
+
+		try {
+			emf = Persistence.createEntityManagerFactory("TestPersistence");
+			em = emf.createEntityManager();
+			tx = em.getTransaction();
+			tx.begin();
+			String jpql = "select sum(price) from hotel_bill";
+			Query query = em.createQuery(jpql);
+			query.getResultList();
+			int j = query.executeUpdate();
+			tx.commit();
+		} catch (Exception e) {
+			tx.rollback();
+			e.printStackTrace();
+		}
+	}
+
+}

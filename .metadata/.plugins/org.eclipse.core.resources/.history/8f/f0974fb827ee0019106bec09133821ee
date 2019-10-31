@@ -1,0 +1,24 @@
+package com.ty.my2jdbc;
+
+import java.sql.Connection;
+import java.util.Scanner;
+
+import com.mysql.jdbc.PreparedStatement;
+
+public class Insertion {
+
+	public static void main(String[] args) {
+	
+
+	Scanner scn=new Scanner(System.in);
+	Connection con=null;
+	PreparedStatement pstmt=null;
+	
+	try {
+		Class.forName("com.mysql.jdbc.Driver");
+		System.out.println("Driver loaded.....");
+	}catch(Exception e) {
+		
+	}
+	}
+}

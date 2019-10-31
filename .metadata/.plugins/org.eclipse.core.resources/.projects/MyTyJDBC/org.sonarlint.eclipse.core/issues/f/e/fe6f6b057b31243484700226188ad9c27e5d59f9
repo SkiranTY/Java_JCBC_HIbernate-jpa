@@ -1,0 +1,44 @@
+
+Xsquid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHƒRMINORZVULNERABILITY
+Xsquid:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH„RMINORZVULNERABILITY
+Xsquid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH…RMINORZVULNERABILITY
+_squid:S4925"-Remove this "Class.forName()", it is useless.(·£úÿÿÿÿH†RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹Â¶½H‡RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ËÕHˆRMAJORZ
+CODE_SMELL
+Rsquid:S2068" Remove this hard-coded password.(ü“‚€H‰RBLOCKERZVULNERABILITY
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÑø°ÿÿÿÿÿHŠRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+e
+squid:S106#"9Replace this use of System.out or System.err by a logger.(–éçÒHŒRMAJORZ
+CODE_SMELL
+j
+squid:S106%"9Replace this use of System.out or System.err by a logger.(íí‡øÿÿÿÿHRMAJORZ
+CODE_SMELL
+c
+squid:S106'"9Replace this use of System.out or System.err by a logger.(“Ü|HRMAJORZ
+CODE_SMELL
+j
+squid:S106)"9Replace this use of System.out or System.err by a logger.(î‚¡ûÿÿÿÿHRMAJORZ
+CODE_SMELL
+e
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ìÃ HRMAJORZ
+CODE_SMELL
+j
+squid:S1062"9Replace this use of System.out or System.err by a logger.(¢—½šùÿÿÿÿH‘RMAJORZ
+CODE_SMELL
+j
+squid:S1066"9Replace this use of System.out or System.err by a logger.(¢—½šùÿÿÿÿH’RMAJORZ
+CODE_SMELL
+[squid:S1481")Remove this unused "user" local variable.(­ê¡ŞúÿÿÿÿH“RMINORZ
+CODE_SMELL
+Zsquid:S1481"-Remove this unused "password" local variable.(ø‘ÃÙH”RMINORZ
+CODE_SMELL

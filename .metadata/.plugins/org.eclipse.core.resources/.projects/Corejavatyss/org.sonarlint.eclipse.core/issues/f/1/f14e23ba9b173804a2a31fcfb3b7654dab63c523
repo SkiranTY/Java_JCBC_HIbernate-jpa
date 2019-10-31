@@ -1,0 +1,13 @@
+
+tsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8«ö®èÜ-H¬!RMINORZ
+CODE_SMELL
+psquid:S2589"7Remove this expression which always evaluates to "true"(ÏÄå’ûÿÿÿÿ8¯ÀÀïÜ-HÇ!RMAJORZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Èç¢üÿÿÿÿ8ì¼ïÜ-HÄ!RMAJORZ
+CODE_SMELL
+†squid:UselessImportCheck"ERemove this unused import 'java.util.MissingFormatArgumentException'.(›ÛØ¤8£÷²ïÜ-Hº!RMINORZ
+CODE_SMELL
+Xsquid:S1659	"Declare "b" on a separate line.(ÆÔè£ûÿÿÿÿ8¼·øÚÜ-Hª!RMINORZ
+CODE_SMELL

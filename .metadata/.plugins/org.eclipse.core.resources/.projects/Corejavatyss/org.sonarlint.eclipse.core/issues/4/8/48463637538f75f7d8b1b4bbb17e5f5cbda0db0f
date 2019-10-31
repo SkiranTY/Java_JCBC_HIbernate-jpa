@@ -1,0 +1,29 @@
+
+^squid:S00108&")Either remove or fill this block of code.(”ı¾8•õƒÉÜ-Hé RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù‚ÁåşÿÿÿÿHê RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ı«¿ùÿÿÿÿHë RMAJORZ
+CODE_SMELL
+Ä%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ã¾ğ‹Õ-Hì RMINORZ
+CODE_SMELL
+j
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHí RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æÄ–Ñ8ã¾ğ‹Õ-Hî RMAJORZ
+CODE_SMELL
+e
+squid:S106 "9Replace this use of System.out or System.err by a logger.(‚ê‘ıHï RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(áğ¯’ûÿÿÿÿHğ RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHñ RMAJORZ
+CODE_SMELL
+msquid:S3400"9Remove this method and declare a constant for this value.(”·³›8ö§ğÙÜ-Hò RMINORZ
+CODE_SMELL
+msquid:S3400	"9Remove this method and declare a constant for this value.(”·³›8ö§ğÙÜ-Hó RMINORZ
+CODE_SMELL
+asquid:S1172"(Remove this unused method parameter "a".(ûµ½åşÿÿÿÿ8ö§ğÙÜ-Hô RMAJORZ
+CODE_SMELL

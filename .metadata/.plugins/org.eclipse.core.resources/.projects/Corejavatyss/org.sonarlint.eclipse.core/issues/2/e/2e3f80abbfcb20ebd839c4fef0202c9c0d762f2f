@@ -1,0 +1,83 @@
+
+l
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ø¬ı–8Şò½ Ü-Hä!RMAJORZ
+CODE_SMELL
+asquid:S1481V"(Remove this unused "itr" local variable.(¼–ëıÿÿÿÿ8òÙà Ü-Hå!RMINORZ
+CODE_SMELL
+q
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÒâúÍúÿÿÿÿ8–˜Â Ü-Hæ!RMAJORZ
+CODE_SMELL
+q
+squid:S106{"9Replace this use of System.out or System.err by a logger.(¯‰Ãøÿÿÿÿ8¶ç Ü-Hç!RMAJORZ
+CODE_SMELL
+jsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHè!RMINORZ
+CODE_SMELL
+wsquid:S00119	"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(³À–Hé!RMINORZ
+CODE_SMELL
+lsquid:S1854e"8Remove this useless assignment to local variable "list".(šä¦Ó8òÙà Ü-Hê!RMAJORZ
+CODE_SMELL
+q
+squid:S106_"9Replace this use of System.out or System.err by a logger.(ÁúÏ¤ûÿÿÿÿ8òÙà Ü-Hë!RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ãÿà¹ùÿÿÿÿ8œ™ØŸÜ-Hì!RMAJORZ
+CODE_SMELL
+l
+squid:S106g"9Replace this use of System.out or System.err by a logger.(Ùõ—’8òÙà Ü-Hí!RMAJORZ
+CODE_SMELL
+l
+squid:S106I"9Replace this use of System.out or System.err by a logger.(€‚Îå8¥É Ü-Hî!RMAJORZ
+CODE_SMELL
+msquid:S1854–"8Remove this useless assignment to local variable "size".(şÛ„Í8ë¢àÜ-Hï!RMAJORZ
+CODE_SMELL
+^squid:S1481–")Remove this unused "size" local variable.(şÛ„Í8°¿ÓˆÛ-Hğ!RMINORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌşÒò8ıíú Ü-Hñ!RMAJORZ
+CODE_SMELL
+l
+squid:S106t"9Replace this use of System.out or System.err by a logger.(é­ªƒ8¶ç Ü-Hò!RMAJORZ
+CODE_SMELL
+Vsquid:S2114"(Remove or correct this "removeAll" call.(çòÿû8¾ŒãÜ-Hó!RMAJORZBUG
+psquid:S1854V"7Remove this useless assignment to local variable "itr".(¼–ëıÿÿÿÿ8ë¢àÜ-Hô!RMAJORZ
+CODE_SMELL
+Usquid:S2114ˆ"(Remove or correct this "retainAll" call.(•Ïí68¾ŒãÜ-Hõ!RMAJORZBUG
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œ™’Å8ıíú Ü-Hö!RMAJORZ
+CODE_SMELL
+m
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(ù£†8˜¶ê Ü-H÷!RMAJORZ
+CODE_SMELL
+†squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤¬ùHø!RMINORZ
+CODE_SMELL
+r
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(¬Öìûùÿÿÿÿ8¼¾ì Ü-Hù!RMAJORZ
+CODE_SMELL
+Ysquid:S1168"+Return an empty collection instead of null.(¥¹ïHú!RMAJORZ
+CODE_SMELL
+Tsquid:S1168¤"&Return an empty array instead of null.(¥¹ïHû!RMAJORZ
+CODE_SMELL
+\squid:S2114:"*Remove or correct this "containsAll" call.(­š¬«øÿÿÿÿ8¾ŒãÜ-Hü!RMAJORZBUG
+]squid:S1481e")Remove this unused "list" local variable.(šä¦Ó8òÙà Ü-Hı!RMINORZ
+CODE_SMELL
+q
+squid:S106("9Replace this use of System.out or System.err by a logger.(Ç´í‚ıÿÿÿÿ8Şò½ Ü-Hş!RMAJORZ
+CODE_SMELL
+q
+squid:S106B"9Replace this use of System.out or System.err by a logger.(İ­½ùÿÿÿÿ8ùñÅ Ü-Hÿ!RMAJORZ
+CODE_SMELL
+squid:S3973W"HUse indentation to denote the code conditionally executed by this "for".(©‚8òÙà Ü-H€"RCRITICALZ
+CODE_SMELL
+k
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Î…Ÿ;8ùñÅ Ü-H"RMAJORZ
+CODE_SMELL
+Tsquid:S1168ª"&Return an empty array instead of null.(¥¹ïH‚"RMAJORZ
+CODE_SMELL
+Œsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(î¦—b8õ¬¦ Ü-Hƒ"RMINORZ
+CODE_SMELL
+k
+squid:S106P"9Replace this use of System.out or System.err by a logger.(­Û†u8òÙà Ü-H„"RMAJORZ
+CODE_SMELL
+l
+squid:S106X"9Replace this use of System.out or System.err by a logger.(…×™Ÿ8òÙà Ü-H…"RMAJORZ
+CODE_SMELL

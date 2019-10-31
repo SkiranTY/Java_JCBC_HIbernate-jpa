@@ -1,0 +1,18 @@
+package com.tyss.tyhibernateapp.dto;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import lombok.Data;
+
+@Data
+@Entity
+@Table
+public class TrainingInfo {
+
+	@Column
+	private int courseId;
+	@Column
+	private String courseName;
+}

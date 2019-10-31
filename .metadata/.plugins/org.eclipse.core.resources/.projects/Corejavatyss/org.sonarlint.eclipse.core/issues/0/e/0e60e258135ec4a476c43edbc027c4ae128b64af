@@ -1,0 +1,16 @@
+
+Wsquid:S1214""Move constants to a class or enum.(¡±≤ÄˇˇˇˇˇHúRCRITICALZ
+CODE_SMELL
+ãsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íñ«≠HùRCRITICALZ
+CODE_SMELL
+ãsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(” €îHûRCRITICALZ
+CODE_SMELL
+ãsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(≥∑§ØHüRCRITICALZ
+CODE_SMELL
+êsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖË÷¡ˇˇˇˇˇH†RCRITICALZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ﬂï≠H°RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ê¯®…˘ˇˇˇˇH¢RMAJORZ
+CODE_SMELL

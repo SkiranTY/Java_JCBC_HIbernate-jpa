@@ -1,0 +1,24 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+import com.mysql.jdbc.Driver;
+
+public class My2jdbc {
+
+	public static void main(String[] args) {
+		
+		try {
+			//load the driver
+			Driver driver=new Driver();
+			DriverManager.registerDriver(driver);
+			System.out.println();
+			
+			//create connection via driver
+			String urlcon="jdbc:mysql://localhost:3306/mydata?user=root&password=root";
+			
+			Connection conn=DriverManager.getConnection(urlcon);
+		}catch(Exception e){
+			
+		}
+	}
+}

@@ -1,0 +1,91 @@
+
+…squid:S11922"PDefine a constant instead of duplicating this literal "TestPersistence" 7 times.(È½ô™ûÿÿÿÿHİRCRITICALZ
+CODE_SMELL
+{squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ó¬ÄîHŞRMINORZ
+CODE_SMELL
+jsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿHßRMINORZ
+CODE_SMELL
+hsquid:UselessImportCheck"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚwHàRMINORZ
+CODE_SMELL
+jsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHáRMINORZ
+CODE_SMELL
+Xsquid:S1148;"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHâRMINORZVULNERABILITY
+Xsquid:S1148N"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHãRMINORZVULNERABILITY
+Xsquid:S1148`"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHäRMINORZVULNERABILITY
+Ysquid:S1148‡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHåRMINORZVULNERABILITY
+Ysquid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHæRMINORZVULNERABILITY
+Ysquid:S1148¯"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHçRMINORZVULNERABILITY
+Ysquid:S1148À"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHèRMINORZVULNERABILITY
+j
+squid:S106""9Replace this use of System.out or System.err by a logger.(À˜ÿÙÿÿÿÿÿHéRMAJORZ
+CODE_SMELL
+j
+squid:S106#"9Replace this use of System.out or System.err by a logger.(éÖÄ¹øÿÿÿÿHêRMAJORZ
+CODE_SMELL
+e
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Ü…»HëRMAJORZ
+CODE_SMELL
+j
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Øà¼ÊüÿÿÿÿHìRMAJORZ
+CODE_SMELL
+j
+squid:S106."9Replace this use of System.out or System.err by a logger.(¹Èñ«øÿÿÿÿHíRMAJORZ
+CODE_SMELL
+e
+squid:S1067"9Replace this use of System.out or System.err by a logger.(«Ä•§HîRMAJORZ
+CODE_SMELL
+e
+squid:S106H"9Replace this use of System.out or System.err by a logger.(øÊÀüHïRMAJORZ
+CODE_SMELL
+j
+squid:S106J"9Replace this use of System.out or System.err by a logger.(¿íı´ıÿÿÿÿHğRMAJORZ
+CODE_SMELL
+c
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(©¨$HñRMAJORZ
+CODE_SMELL
+j
+squid:S106\"9Replace this use of System.out or System.err by a logger.(—µ‡ÒüÿÿÿÿHòRMAJORZ
+CODE_SMELL
+e
+squid:S106h"9Replace this use of System.out or System.err by a logger.(¶Ó¯½HóRMAJORZ
+CODE_SMELL
+d
+squid:S106l"9Replace this use of System.out or System.err by a logger.(À½˜OHôRMAJORZ
+CODE_SMELL
+e
+squid:S106n"9Replace this use of System.out or System.err by a logger.(ˆòö„HõRMAJORZ
+CODE_SMELL
+e
+squid:S106u"9Replace this use of System.out or System.err by a logger.(Ü…»HöRMAJORZ
+CODE_SMELL
+j
+squid:S106w"9Replace this use of System.out or System.err by a logger.(Øà¼ÊüÿÿÿÿH÷RMAJORZ
+CODE_SMELL
+j
+squid:S106z"9Replace this use of System.out or System.err by a logger.(¹Èñ«øÿÿÿÿHøRMAJORZ
+CODE_SMELL
+k
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ƒŠº–üÿÿÿÿHùRMAJORZ
+CODE_SMELL
+d
+squid:S106’"9Replace this use of System.out or System.err by a logger.(©¨$HúRMAJORZ
+CODE_SMELL
+k
+squid:S106•"9Replace this use of System.out or System.err by a logger.(—µ‡ÒüÿÿÿÿHûRMAJORZ
+CODE_SMELL
+k
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(‚ÄËšşÿÿÿÿHüRMAJORZ
+CODE_SMELL
+k
+squid:S106§"9Replace this use of System.out or System.err by a logger.(åËÀöûÿÿÿÿHıRMAJORZ
+CODE_SMELL
+f
+squid:S106©"9Replace this use of System.out or System.err by a logger.(¸ßßHşRMAJORZ
+CODE_SMELL
+k
+squid:S106«"9Replace this use of System.out or System.err by a logger.(¿íı´ıÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+hsquid:S1854½"5Remove this useless assignment to local variable "j".(ÏëüÿÿÿÿH€RMAJORZ
+CODE_SMELL
+Ysquid:S1481½"&Remove this unused "j" local variable.(ÏëüÿÿÿÿHRMINORZ
+CODE_SMELL

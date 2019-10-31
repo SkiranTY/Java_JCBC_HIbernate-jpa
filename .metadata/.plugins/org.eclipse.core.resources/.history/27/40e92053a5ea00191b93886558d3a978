@@ -1,0 +1,130 @@
+package com.ty.excer;
+
+import java.util.ArrayList;
+import static com.ty.excer.Student;
+import java.util.Collection;
+import java.util.Iterator;
+import java.util.List;
+import java.util.ListIterator;
+
+public class MyArrayLIst<Student> implements List<Student> {
+
+	Student s;
+	MyArrayLIst<Student> my=new MyArrayLIst<Student>();
+	@Override
+	public boolean add(Student s) {
+		my.add(s);
+		return false;
+	}
+	@Override
+	public void add(int arg0, Student arg1) {
+		my.add(1,s);
+	}
+	@Override
+	public boolean addAll(Collection<? extends Student> arg0) {
+		my.addAll(my);
+		return false;
+	}
+	@Override
+	public boolean addAll(int arg0, Collection<? extends Student> arg1) {
+		my.addAll(1, my);
+		return false;
+	}
+	@Override
+	public void clear() {
+		my.clear();
+	}
+	@Override
+	public boolean contains(Object arg0) {
+		my.contains(s);
+		return false;
+	}
+	@Override
+	public boolean containsAll(Collection<?> arg0) {
+		my.containsAll(my);
+		return false;
+	}
+	@Override
+	public Student get(int arg0) {
+		s.
+		return null;
+	}
+	@Override
+	public int indexOf(Object arg0) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	@Override
+	public boolean isEmpty() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+	@Override
+	public Iterator<Student> iterator() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public int lastIndexOf(Object arg0) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	@Override
+	public ListIterator<Student> listIterator() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public ListIterator<Student> listIterator(int arg0) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public boolean remove(Object arg0) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+	@Override
+	public Student remove(int arg0) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public boolean removeAll(Collection<?> arg0) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+	@Override
+	public boolean retainAll(Collection<?> arg0) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+	@Override
+	public Student set(int arg0, Student arg1) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public int size() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	@Override
+	public List<Student> subList(int arg0, int arg1) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public Object[] toArray() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public <T> T[] toArray(T[] arg0) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+	
+}

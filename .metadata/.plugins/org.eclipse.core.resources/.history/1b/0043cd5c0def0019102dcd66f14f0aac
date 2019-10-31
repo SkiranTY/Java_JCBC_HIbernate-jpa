@@ -1,0 +1,5 @@
+package com.ty.excer;
+
+public class MyException extends Exception {
+
+}

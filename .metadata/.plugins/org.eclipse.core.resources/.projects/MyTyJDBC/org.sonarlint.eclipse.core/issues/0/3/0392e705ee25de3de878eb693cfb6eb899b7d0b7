@@ -1,0 +1,46 @@
+
+Xsquid:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÀRMINORZVULNERABILITY
+Xsquid:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÁRMINORZVULNERABILITY
+_squid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHÂRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(•†ÂñHÃRMAJORZ
+CODE_SMELL
+j
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Ü’¬«úÿÿÿÿHÄRMAJORZ
+CODE_SMELL
+Xsquid:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÅRMINORZVULNERABILITY
+e
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Â™î¥HÆRMAJORZ
+CODE_SMELL
+j
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ü²¡óşÿÿÿÿHÇRMAJORZ
+CODE_SMELL
+squid:S001170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ò©HÈRMINORZ
+CODE_SMELL
+j
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÿâöøÿÿÿÿHÉRMAJORZ
+CODE_SMELL
+j
+squid:S106;"9Replace this use of System.out or System.err by a logger.(¢—½šùÿÿÿÿHÊRMAJORZ
+CODE_SMELL
+squid:S001171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ù¯úHËRMINORZ
+CODE_SMELL
+e
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Ô’¦HÌRMAJORZ
+CODE_SMELL
+j
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Åœ´¼şÿÿÿÿHÍRMAJORZ
+CODE_SMELL
+{squid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(á§µìHÎRMINORZ
+CODE_SMELL
+squid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ˆ²ŒHÏRMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ËÕHĞRMAJORZ
+CODE_SMELL
+Xsquid:S1148<"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÑRMINORZVULNERABILITY
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ’†HÒRMAJORZ
+CODE_SMELL

@@ -1,0 +1,47 @@
+package com.ty.excer;
+
+public class Demo {
+	
+	 int k=19;
+	 static int p=2;
+	 
+	 void test(int k,long n) {
+		 System.out.println("this is int and long");
+		 
+	 }
+	 
+	 void test(long n, int k) {
+		 System.out.println("this is long and int");
+	 }
+	 
+//	static Demo d=new Demo();
+	public static void main(String[] args) {
+  		Demo d=new Demo();
+		d.test(20L,20);
+//		int i;
+//		for(i=0;i<5;i++) {
+//			System.out.println(i);
+////			continue;
+//		if(i<5) {
+//			System.out.println(i);
+//			
+//		}
+//		}
+//		System.out.println(d.k);
+//		
+//		
+//		Demo d1 = new Demo();
+//		d1.p=d.k;
+//		System.out.println(p);
+//		
+//		int[] a;
+//		a=new int[4];
+//		int []b= {1,2,3,4};
+//		
+//		String str="hello";
+//		String str1="'a','m'";
+//		System.out.println(str1);
+//		String str3=new String("java");
+//		System.out.println(str3);
+	}
+}

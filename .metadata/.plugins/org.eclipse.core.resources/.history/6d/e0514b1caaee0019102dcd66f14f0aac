@@ -1,0 +1,9 @@
+package com.ty.excer;
+
+public class Excep extends Throwable {
+
+	public static void main(String[] args)  throws InavlidException {
+		
+		Math.pow(2,3);
+	}
+}

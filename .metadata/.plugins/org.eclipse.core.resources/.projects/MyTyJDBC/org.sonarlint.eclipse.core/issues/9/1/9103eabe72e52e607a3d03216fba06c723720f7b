@@ -1,0 +1,38 @@
+
+hsquid:UselessImportCheck"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚwHåRMINORZ
+CODE_SMELL
+Xsquid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHæRMINORZVULNERABILITY
+Xsquid:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHçRMINORZVULNERABILITY
+Xsquid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHèRMINORZVULNERABILITY
+_squid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHéRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Çò¥ÇıÿÿÿÿHêRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ÈÏ¬ùÿÿÿÿHëRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ËäÛºúÿÿÿÿHìRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑÚ…›ùÿÿÿÿHíRMAJORZ
+CODE_SMELL
+j
+squid:S106$"9Replace this use of System.out or System.err by a logger.(âˆ«¦øÿÿÿÿHîRMAJORZ
+CODE_SMELL
+e
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¡öşHïRMAJORZ
+CODE_SMELL
+e
+squid:S106("9Replace this use of System.out or System.err by a logger.(›¾Û¦HğRMAJORZ
+CODE_SMELL
+e
+squid:S106*"9Replace this use of System.out or System.err by a logger.(”ñ˜òHñRMAJORZ
+CODE_SMELL
+j
+squid:S1061"9Replace this use of System.out or System.err by a logger.(÷ÉòşÿÿÿÿHòRMAJORZ
+CODE_SMELL
+j
+squid:S1063"9Replace this use of System.out or System.err by a logger.(¢—½šùÿÿÿÿHóRMAJORZ
+CODE_SMELL
